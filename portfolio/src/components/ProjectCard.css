@@ -1,0 +1,13 @@
+.project-card {
+    width: 90%;
+    margin: 20px 5%;
+    padding: 10px;
+}
+
+@media only screen and (min-width: 1024px) {
+    .project-card {
+        width: 40%;
+        margin: 20px 5%;
+        padding: 10px;
+    }
+}

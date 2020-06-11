@@ -1,0 +1,9 @@
+.account-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 40%;
+    margin: 0 5%;
+    padding: 20px;
+    vertical-align: middle;
+}
