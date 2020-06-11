@@ -20,7 +20,7 @@
 }
 
 #about-me {
-    font-size: 48px;
+    font-size: 24px;
     color: white;
 }
 
@@ -32,5 +32,9 @@ a .active {
 @media only screen and (min-width: 1024px) {
     .nav-link {
         font-size: 24px;
+    }
+
+    #about-me {
+        font-size: 48px;
     }
 }
