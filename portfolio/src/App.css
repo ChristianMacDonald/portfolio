@@ -1,6 +1,7 @@
 #root {
   background-color: rgb(94, 15, 82);
   min-height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
@@ -29,9 +30,15 @@ header {
 }
 
 .container {
-  width: 50%;
+  width: 75%;
   margin: 0 auto;
   min-height: 100vh;
+}
+
+@media only screen and (min-width: 1024px) {
+  .container {
+    width: 50%
+  }
 }
 
 @media (prefers-reduced-motion: no-preference) {

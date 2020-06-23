@@ -1,4 +1,5 @@
 import React from 'react';
+import './reset.css';
 import './App.css';
 import Tabs from './components/Tabs'
 import logo from './nu.png'
