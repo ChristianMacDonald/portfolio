@@ -57,7 +57,7 @@ const mudTechStack = [
     'PostgreSQL'
 ]
 
-const mudBullets = ['Used Django to built the database and API']
+const mudBullets = ['Used Django to build the database and API']
 
 const guessWhoTechStack = [
     'Node',
